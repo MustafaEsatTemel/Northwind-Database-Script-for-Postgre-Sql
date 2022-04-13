@@ -1,5 +1,5 @@
---
--- PostgreSQL database dump
+--Postgre'de database'ne sag tik yap, query tool'a basip bu scripti yapistir. Ardindan calistri. Otomatik sana tablolar getirecek.
+-- PostgreSQL database dump 
 --
 
 SET statement_timeout = 0;
